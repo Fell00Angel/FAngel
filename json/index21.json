@@ -19,16 +19,14 @@
       "searchable": 1,
       "filterable": 1
     },
-     {
-      "key": "Auete",
-      "name": "🏝奥特┃无广",
+    {
+      "key": "苹果",
+      "name": "🍎苹果┃不卡",
       "type": 3,
-      "api": "csp_Auete",
-      "timeout": 15,
+      "api": "csp_LiteApple",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://auete.com/"
+      "changeable": 1
     },
     {
       "key": "Cg51",

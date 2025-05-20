@@ -20,6 +20,16 @@
       "filterable": 1
     },
     {
+      "key": "玩偶",
+      "name": "👽玩偶哥哥┃4K弹幕",
+      "type": 3,
+      "api": "csp_WoGG",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt"
+    },
+    {
       "key": "Cg51",
       "name": "\uD83D\uDD1E 51吃瓜 | 图密√",
       "type": 3,
